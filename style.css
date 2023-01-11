@@ -1,0 +1,42 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td, th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+
+td {
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend {
+    background-color: plum;
+    color: black;
+}
+th {
+    padding: 8px 0;
+    background-color: lightsteelblue;
+    color: black;
+}
+.winterbreak {
+    background-color: lightsteelblue;
+    color: black;
+}
+
+.schoolday {
+    background-color: cornflowerblue;
+    color: black;
+}
+.christmas {
+background-color: indianred;
+    color: black;
+}
+.newyearseve {
+background-color: darkcyan;
+    color: black;
+}
